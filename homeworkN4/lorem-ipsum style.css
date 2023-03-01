@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: #F2F2F2;
+}
+.main-box{
+    padding-top: 54px;
+    padding-left: 39px;
+    width: 1440px;
+    height: 1440px;
+}
+.title{
+    font-size:20px;
+}
+.text{
+    font-size:16px;
+}
+.text1box{
+    max-width: 1345px;
+}
+.text2box{
+   max-width: 1363px;
+}
+.text3box{
+    max-width: 1349px;
+}
+.text4box{
+    max-width: 1327px;
+}
+.text5box{
+    max-width:1318px;
+}
